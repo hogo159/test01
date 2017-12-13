@@ -1,0 +1,40 @@
+[33mcommit f784d2b2396323e2dfd3462959fcab6a4e7123c6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: 추원표 <hogo159@naver.com>
+Date:   Wed Dec 13 13:22:57 2017 +0900
+
+    6 Revert "4 socket package 생성"
+    
+    This reverts commit 6ee944e249c09b62f2652dcd90fe7c7629a6d1e8.
+
+[33mcommit 676375627d40170b3af80b63096d1e7ea4900a8e[m
+Author: 추원표 <hogo159@naver.com>
+Date:   Wed Dec 13 13:19:40 2017 +0900
+
+    5 Revert "3 test2.txt 파일생성"
+    
+    This reverts commit 1d9e86ab39954def1ba021d5b72312a98c4f735f.
+
+[33mcommit 6ee944e249c09b62f2652dcd90fe7c7629a6d1e8[m
+Author: 추원표 <hogo159@naver.com>
+Date:   Wed Dec 13 13:12:51 2017 +0900
+
+    4 socket package 생성
+
+[33mcommit 1d9e86ab39954def1ba021d5b72312a98c4f735f[m
+Author: 추원표 <hogo159@naver.com>
+Date:   Wed Dec 13 13:08:38 2017 +0900
+
+    3 test2.txt 파일생성
+
+[33mcommit d2c9324988b99ff100745739d631a683d7477c42[m
+Author: 추원표 <hogo159@naver.com>
+Date:   Wed Dec 13 11:47:25 2017 +0900
+
+    test1.txt 파일 수정했습니다
+
+[33mcommit 9087e2fdc6b62e26323cc722a1a5221c47caeea8[m
+Author: 추원표 <hogo159@naver.com>
+Date:   Wed Dec 13 11:41:18 2017 +0900
+
+    1 test1.txt 생성 해버림
+    2 노란생 간지난다
